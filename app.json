@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "novies-211118",
+    "slug": "novies-211118",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "novies-211118"
+}
